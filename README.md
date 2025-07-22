@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio repository! I'm Sebastian Casadiego, a passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.
 
+Work in progress: 70% completed
+
 ##  About Me
 
 I specialize in crafting modern, scalable, and accessible interfaces using technologies like:
