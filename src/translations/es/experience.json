@@ -1,0 +1,56 @@
+{
+	"experience": [
+		{
+			"id": 1,
+			"title": "Desarrollador Full Stack",
+			"startDate": "11-01-2022",
+			"endDate": "12-19-2023",
+			"description": [
+				"Desarrollo de Funcionalidades: Desarrollar e implementar nuevas características para aplicaciones web y móviles utilizando React y React Native, garantizando la calidad del código y la adherencia a las mejores prácticas de desarrollo.",
+				"Corrección de Errores: Identificar y resolver problemas de manera eficiente para mantener la estabilidad de la aplicación y asegurar la satisfacción del usuario.",
+				"Control de Versiones: Gestionar eficazmente versiones y ramas mediante Git, asegurando la coherencia del código y facilitando la colaboración en equipo.",
+				"Automatización de Despliegues: Automatizar despliegues e implementar pipelines CI/CD para optimizar los procesos de construcción, pruebas y despliegue, garantizando la fiabilidad en entornos de producción.",
+				"Optimización de Seguridad y Rendimiento: Priorizar medidas de seguridad y optimizar el rendimiento para proteger los datos de los usuarios y proporcionar una experiencia de usuario de alto nivel."
+			]
+		},
+		{
+			"id": 2,
+			"title": "Desarrollador React Native",
+			"startDate": "06-01-2022",
+			"endDate": "11-01-2022",
+			"description": [
+				"Diseño y Desarrollo: Diseño y desarrollo de aplicaciones complejas y sostenibles, asegurando una arquitectura robusta y escalable que permita un crecimiento eficiente y una fácil adaptación a futuros requisitos.",
+				"Componentes Reutilizables: Creación y mantenimiento de componentes reutilizables para agilizar el proceso de desarrollo, estandarizar las interfaces de usuario y garantizar la coherencia en las vistas a lo largo de la aplicación.",
+				"Integración de Servicios: Integración y gestión de servicios como Firebase, proporcionando soporte continuo y un seguimiento exhaustivo de errores o bugs, mejorando la estabilidad y el rendimiento de la aplicación.",
+				"Optimización de Arquitectura: Optimización y modularización de la arquitectura interna, enfocada en la limpieza del código y la creación de módulos bien definidos, facilitando la mantenibilidad y escalabilidad del sistema a largo plazo."
+			]
+		},
+		{
+			"id": 3,
+			"title": "Desarrollador Lider Front End",
+			"startDate": "09-21-2021",
+			"endDate": "05-31-2023",
+			"description": [
+				"Desarrollo Web y de Aplicaciones: Desarrollo de sitios web y aplicaciones utilizando frameworks modernos como React.js, React Native y Next.js, creando soluciones eficientes y escalables adaptadas a las necesidades del cliente.",
+				"Componentes Reutilizables: Diseño e implementación de componentes reutilizables y dinámicos, estandarizando la construcción de sitios y aplicaciones para mejorar la consistencia y acelerar el desarrollo.",
+				"Mantenimiento y Resolución de Problemas: Mantenimiento y resolución de problemas en sitios web y aplicaciones, asegurando un funcionamiento óptimo y una experiencia de usuario fluida mediante soluciones rápidas y efectivas.",
+				"Gestión de Herramientas: Gestión de herramientas de desarrollo como GitHub, Git y Azure, coordinando el control de versiones y facilitando la colaboración en equipo a lo largo del ciclo de vida del proyecto.",
+				"Soporte Técnico: Provisión de soporte técnico y resolución de bugs, ofreciendo soluciones rápidas para mantener la estabilidad y confiabilidad de aplicaciones y sitios web.",
+				"Implementación y Despliegue: Implementación y despliegue en servidores, asegurando una configuración correcta y un rendimiento óptimo de aplicaciones y sitios web para los usuarios finales."
+			]
+		},
+		{
+			"id": 4,
+			"title": "Desarrollador independiente",
+			"startDate": "10-01-2019",
+			"endDate": "10-01-2020",
+			"description": [
+				"Desarrollo de Vistas Web: Desarrollo de vistas web utilizando HTML, CSS y JavaScript, creando interfaces atractivas y funcionales que cumplen con los estándares actuales y ofrecen una experiencia de usuario óptima.",
+				"Estructuración de Plantillas: Estructuración de plantillas base para sitios web, estableciendo una base sólida para contenido y funcionalidades adicionales, asegurando coherencia y escalabilidad.",
+				"Creación y Modificación de Componentes: Creación y modificación de componentes en sitios web, adaptando y optimizando elementos según los requisitos del proyecto para mejorar el rendimiento y la integración.",
+				"Cumplimiento de Requisitos del Cliente: Cumplimiento preciso de los requisitos del cliente, garantizando que las soluciones se alineen con sus expectativas y se entreguen puntualmente, manteniendo una comunicación clara durante todo el proceso."
+			]
+		}
+	],
+	"defaultPresentDate": "Presente"
+}

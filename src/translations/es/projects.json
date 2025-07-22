@@ -1,0 +1,44 @@
+{
+	"title": "Proyectos",
+	"projectsPreview": [
+		{
+			"id": 1,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1.png",
+			"mobileImage": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png",
+			"title": "Dream Agency",
+			"description": "Dream Agency es un proyecto desarrollado con Vanila (HTML, CSS, Javascript), que busca replicar la estructura base de las landing page de una forma elegante, funcional e innovadora, con su diseño sencillo y adapatable inclusive a dispositivos moviles."
+		},
+		{
+			"id": 2,
+			"image": "/src/assets/images/projects/finalRound/finalRoundImage.jpeg",
+			"title": "Final Round",
+			"description": "Es un proyecto de desarrollo de videojuegos, que busca mediante a formulas matematicas simular un motor grafico simple para replicar la dinamica de los juegos de pelea estilo arcade, ademas combinandolo con mecanicas modernas de desarrollo y optimizacion de procesos."
+		},
+		{
+			"id": 3,
+			"image": "/src/assets/images/projects/projectSakura/projectSakuraImage.jpeg",
+			"title": "Project Sakura",
+			"description": "Es un proyecto en donde se busca hacer un programa de gestion de usuario con un inicio de sesion y registro, conectandolo con la API de Firebase y usando todo el tema de oAuth y 2Auth para el registro y autenticacion de usuarios."
+		},
+		{
+			"id": 4,
+			"image": "/src/assets/images/projects/googleClon/googleClonImage.jpeg",
+			"title": "Google Clone",
+			"description": "Es un proyecto desarrollado en React, usando tenicas de estandarizacion de clases como BEM e implementando preprocesadores de estilos como SASS para replicar la estructura identica de una busqueda en Google"
+		}
+	],
+	"linkButton": "Ir",
+	"projectData": [
+		{
+			"id": 1,
+			"backImg": "https://images.wallpapersden.com/image/download/lionel-messi-footballer_am1taG6UmZqaraWkpJRmZWdprWpsaw.jpg",
+			"title": "Prueba de titulo del proyecto",
+			"description": "Es un proyecto desarrollado en React, usando tenicas de estandarizacion de clases como BEM e implementando preprocesadores de estilos como SASS para replicar la estructura identica de una busqueda en Google",
+			"icon": "ruta/icon",
+			"linkProject": "link del proyecto",
+			"secondTitle": "subtitulo segundo",
+			"listItems": ["prueba1", "prueba2", "prueba3"],
+			"titleTecnologies": "nombres de las tecnologias"
+		}
+	]
+}

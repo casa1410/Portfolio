@@ -1,0 +1,105 @@
+{
+	"title": "Projects",
+	"projectsPreview": [
+		{
+			"id": 1,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1.png",
+			"mobileImage": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png",
+			"title": "Dream Agency",
+			"description": "Dream Agency is a project developed using Vanilla (HTML, CSS, JavaScript), aiming to elegantly, functionally, and innovatively replicate the basic structure of a landing page. Its simple design is fully responsive, including support for mobile devices."
+		},
+		{
+			"id": 2,
+			"image": "/src/assets/images/projects/finalRound/finalRoundImage.jpeg",
+			"title": "Final Round",
+			"description": "This is a video game development project that uses mathematical formulas to simulate a simple graphics engine, recreating the dynamics of arcade-style fighting games. It also incorporates modern development mechanics and process optimization techniques."
+		},
+		{
+			"id": 3,
+			"image": "/src/assets/images/projects/projectSakura/projectSakuraImage.jpeg",
+			"title": "Project Sakura",
+			"description": "This project aims to build a user management program with login and registration functionality. It integrates with Firebase's API and uses oAuth and 2Auth protocols for secure user registration and authentication."
+		},
+		{
+			"id": 4,
+			"image": "/src/assets/images/projects/googleClon/googleClonImage.jpeg",
+			"title": "Google Clone",
+			"description": "This is a React-based project that replicates the structure of a Google search page. It employs class standardization techniques like BEM and style preprocessors such as SASS to achieve an identical design."
+		}
+	],
+	"linkButton": "Go!",
+	"projectData": [
+		{
+			"id": 1,
+			"backImg": "/src/assets/images/projects/dreamAgency/dreamAgency1.png",
+			"title": "Dream Agency",
+			"description": "Dream Agency is a project developed using Vanilla (HTML, CSS, JavaScript), aiming to elegantly, functionally, and innovatively replicate the basic structure of a landing page. Its simple design is fully responsive, including support for mobile devices.",
+			"icon": "/src/assets/images/slack.png",
+			"linkProject": "dreamAgency.com",
+			"secondTitle": "Key Features",
+			"listItems": [
+				"Elegant and functional landing page design",
+				"Fully responsive layout, supporting mobile devices",
+				"Developed using HTML, CSS, and JavaScript"
+			],
+			"titleTecnologies": "Technologies Used",
+			"iconsTecnologies": [
+				"/src/assets/images/react.png",
+				"/src/assets/images/css.png",
+				"/src/assets/images/javascript.png",
+				"/src/assets/images/html.png"
+			]
+		},
+		{
+			"id": 2,
+			"backImg": "https://images.wallpapersden.com/image/download/lionel-messi-footballer_am1taG6UmZqaraWkpJRmZWdprWpsaw.jpg",
+			"title": "Prueba de titulo del proyecto 2",
+			"description": "Es un proyecto desarrollado en React, usando tenicas de estandarizacion de clases como BEM e implementando preprocesadores de estilos como SASS para replicar la estructura identica de una busqueda en Google",
+			"icon": "ruta/icon",
+			"linkProject": "link del proyecto",
+			"secondTitle": "Key Features",
+			"listItems": ["Feature1", "Feature2", "Feature3"],
+			"titleTecnologies": "Technologies Used",
+			"iconsTecnologies": [
+				"/src/assets/images/slack.png",
+				"/src/assets/images/javascript.png",
+				"/src/assets/images/mui.png",
+				"/src/assets/images/zustand.png"
+			]
+		},
+		{
+			"id": 3,
+			"backImg": "https://images.wallpapersden.com/image/download/lionel-messi-footballer_am1taG6UmZqaraWkpJRmZWdprWpsaw.jpg",
+			"title": "Prueba de titulo del proyecto 3",
+			"description": "Es un proyecto desarrollado en React, usando tenicas de estandarizacion de clases como BEM e implementando preprocesadores de estilos como SASS para replicar la estructura identica de una busqueda en Google",
+			"icon": "ruta/icon",
+			"linkProject": "link del proyecto",
+			"secondTitle": "Key Features",
+			"listItems": ["Feature1", "Feature2", "Feature3"],
+			"titleTecnologies": "Technologies Used",
+			"iconsTecnologies": [
+				"/src/assets/images/slack.png",
+				"/src/assets/images/javascript.png",
+				"/src/assets/images/mui.png",
+				"/src/assets/images/zustand.png"
+			]
+		},
+		{
+			"id": 4,
+			"backImg": "https://images.wallpapersden.com/image/download/lionel-messi-footballer_am1taG6UmZqaraWkpJRmZWdprWpsaw.jpg",
+			"title": "Prueba de titulo del proyecto",
+			"description": "Es un proyecto desarrollado en React, usando tenicas de estandarizacion de clases como BEM e implementando preprocesadores de estilos como SASS para replicar la estructura identica de una busqueda en Google",
+			"icon": "ruta/icon",
+			"linkProject": "link del proyecto",
+			"secondTitle": "Key Features",
+			"listItems": ["Feature1", "Feature2", "Feature3"],
+			"titleTecnologies": "Technologies Used",
+			"iconsTecnologies": [
+				"/src/assets/images/slack.png",
+				"/src/assets/images/javascript.png",
+				"/src/assets/images/mui.png",
+				"/src/assets/images/zustand.png"
+			]
+		}
+	]
+}

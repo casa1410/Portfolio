@@ -1,0 +1,109 @@
+{
+	"header": {
+		"links": [
+			{ "id": 1, "name": "Sobre mi" },
+			{ "id": 2, "name": "Experiencia" },
+			{ "id": 3, "name": "Habilidades" },
+			{ "id": 4, "name": "Proyectos" },
+			{ "id": 5, "name": "Hablemos" },
+			{ "id": 6, "name": "Hobbies" }
+		]
+	},
+	"aside": [
+		{
+			"name": "Sobre mi",
+			"childrens": [
+				{
+					"name": "index",
+					"route": "/",
+					"ext": "html"
+				},
+				{
+					"name": "sobre_mi",
+					"route": "/experience",
+					"ext": "css"
+				},
+				{
+					"name": "Proyectos",
+					"route": "/projects",
+					"ext": "rb"
+				},
+				{
+					"name": "habilidades",
+					"route": "/skills",
+					"ext": "js"
+				},
+				{
+					"name": "hobbies",
+					"route": "/hobbies",
+					"ext": "py"
+				}
+			]
+		},
+		{
+			"name": "Proyectos",
+			"childrens": [
+				{
+					"name": "proyecto_1",
+					"route": "/projects/1",
+					"ext": "tsx"
+				},
+				{
+					"name": "proyecto_2",
+					"route": "/projects/2",
+					"ext": "jsx"
+				},
+				{
+					"name": "proyecto_3",
+					"route": "/projects/3",
+					"ext": "ts"
+				},
+				{
+					"name": "proyecto_4",
+					"route": "/projects/4",
+					"ext": "ts"
+				}
+			]
+		},
+		{
+			"name": "hablemos",
+			"route": "/contact",
+			"ext": "txt"
+		},
+		{
+			"name": "apoyame!",
+			"route": "/support",
+			"ext": "md"
+		}
+	],
+	"settings": [
+		{
+			"label": "Idiomas",
+			"value": "lang",
+			"childs": [
+				{
+					"label": "Español",
+					"value": "es"
+				},
+				{
+					"label": "Ingles",
+					"value": "en"
+				}
+			]
+		},
+		{
+			"label": "Temas",
+			"value": "th",
+			"childs": [
+				{
+					"label": "Claro",
+					"value": "light"
+				},
+				{
+					"label": "Oscuro",
+					"value": "dark"
+				}
+			]
+		}
+	]
+}

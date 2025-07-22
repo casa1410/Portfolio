@@ -1,0 +1,127 @@
+{
+	"title": "Habilidades",
+	"categories": [
+		{
+			"id": 1,
+			"label": "Lenguajes",
+			"items": [
+				{
+					"label": "JavaScript",
+					"image": "/src/assets/images/javascript.png"
+				},
+				{
+					"label": "TypeScript",
+					"image": "/src/assets/images/Typescript.png"
+				},
+				{
+					"label": "HTML",
+					"image": "/src/assets/images/html.png"
+				},
+				{
+					"label": "CCS3",
+					"image": "/src/assets/images/css.png"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"label": "Frameworks",
+			"items": [
+				{
+					"label": "React",
+					"image": "/src/assets/images/react.png"
+				},
+				{
+					"label": "Tailwind css",
+					"image": "/src/assets/images/tailwind.png"
+				},
+				{
+					"label": "NextJS",
+					"image": "/src/assets/images/nextjs.png"
+				},
+				{
+					"label": "ExpressJS",
+					"image": "/src/assets/images/express.png"
+				},
+				{
+					"label": "Boostrap",
+					"image": "/src/assets/images/bootstrap.png"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"label": "Herramientas",
+			"items": [
+				{
+					"label": "Visual studio",
+					"image": "/src/assets/images/VisualStudio.png"
+				},
+				{
+					"label": "Slack",
+					"image": "/src/assets/images/slack.png"
+				},
+				{
+					"label": "Click up",
+					"image": "/src/assets/images/clickup.png"
+				},
+				{
+					"label": "Jira",
+					"image": "/src/assets/images/jira.png"
+				},
+				{
+					"label": "Figma",
+					"image": "/src/assets/images/figma2.png"
+				},
+				{
+					"label": "Postman",
+					"image": "/src/assets/images/postman.png"
+				},
+				{
+					"label": "Git",
+					"image": "/src/assets/images/git.png"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"label": "Librerias",
+			"items": [
+				{
+					"label": "Axios",
+					"image": "/src/assets/images/axios.png"
+				},
+				{
+					"label": "React Router Dom",
+					"image": "/src/assets/images/router-dom.png"
+				},
+				{
+					"label": "Zustand",
+					"image": "/src/assets/images/zustand.png"
+				},
+				{
+					"label": "Redux",
+					"image": "/src/assets/images/redux2.png"
+				},
+				{
+					"label": "Material Ui",
+					"image": "/src/assets/images/material.png"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"label": "Movil",
+			"items": [
+				{
+					"label": "React Native",
+					"image": "/src/assets/images/ReactNative.png"
+				},
+				{
+					"label": "Flutter  ",
+					"image": "/src/assets/images/flutter.png"
+				}
+			]
+		}
+	]
+}

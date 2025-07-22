@@ -1,0 +1,12 @@
+.beating {
+	animation: beating 1s ease infinite both;
+}
+
+@keyframes beating {
+	from {
+		transform: scale(1);
+	}
+	to {
+		transform: scale(1.1);
+	}
+}

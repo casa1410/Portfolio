@@ -1,0 +1,52 @@
+{
+	"formContainer": {
+		"title": "Ponte en contacto",
+		"subtitle": "¡Ahora puedes contactarme directamente! ;)",
+		"description": "Aquí es donde puedes publicar todos tus comentarios, felicitaciones, preguntas, solicitudes, proyectos que quieras llevar a cabo. Estaré más que feliz de interactuar contigo y brindarte cualquiera de estos servicios, siempre, por supuesto, manteniendo mis altos estándares en cada uno de ellos.",
+		"form": {
+			"firstName": {
+				"label": "Nombre",
+				"placeholder": "Nombre"
+			},
+			"lastName": {
+				"label": "Apellido",
+				"placeholder": "Apellido"
+			},
+			"email": {
+				"label": "Email",
+				"placeholder": "ejemplo@dominio.com"
+			},
+			"phone": {
+				"label": "Teléfono",
+				"placeholder": "(555) 000-0000"
+			},
+			"message": {
+				"label": "Mensaje",
+				"placeholder": "Escribe un lindo mensaje :D"
+			},
+			"send": "Enviar"
+		}
+	},
+	"opinionsSlider": [
+		{
+			"id": 1,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png"
+		},
+		{
+			"id": 2,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png"
+		},
+		{
+			"id": 3,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png"
+		},
+		{
+			"id": 4,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png"
+		},
+		{
+			"id": 5,
+			"image": "/src/assets/images/projects/dreamAgency/dreamAgency1-mob.png"
+		}
+	]
+}
