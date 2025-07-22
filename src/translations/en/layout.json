@@ -1,0 +1,109 @@
+{
+	"header": {
+		"links": [
+			{ "id": 1, "name": "About" },
+			{ "id": 2, "name": "Experience" },
+			{ "id": 3, "name": "Skills" },
+			{ "id": 4, "name": "Projects" },
+			{ "id": 5, "name": "Contact" },
+			{ "id": 6, "name": "Hobbies" }
+		]
+	},
+	"aside": [
+		{
+			"name": "About",
+			"childrens": [
+				{
+					"name": "index",
+					"route": "/",
+					"ext": "html"
+				},
+				{
+					"name": "experience",
+					"route": "/experience",
+					"ext": "css"
+				},
+				{
+					"name": "projects",
+					"route": "/projects",
+					"ext": "rb"
+				},
+				{
+					"name": "skills",
+					"route": "/skills",
+					"ext": "js"
+				},
+				{
+					"name": "Hobbies",
+					"route": "/hobbies",
+					"ext": "py"
+				}
+			]
+		},
+		{
+			"name": "Projects",
+			"childrens": [
+				{
+					"name": "project1",
+					"route": "/projects/1",
+					"ext": "tsx"
+				},
+				{
+					"name": "project2",
+					"route": "/projects/2",
+					"ext": "jsx"
+				},
+				{
+					"name": "project3",
+					"route": "/projects/3",
+					"ext": "ts"
+				},
+				{
+					"name": "project4",
+					"route": "/projects/4",
+					"ext": "ts"
+				}
+			]
+		},
+		{
+			"name": "contact",
+			"route": "/contact",
+			"ext": "txt"
+		},
+		{
+			"name": "support_me",
+			"route": "/support",
+			"ext": "md"
+		}
+	],
+	"settings": [
+		{
+			"label": "Languages",
+			"value": "lang",
+			"childs": [
+				{
+					"label": "Spanish",
+					"value": "es"
+				},
+				{
+					"label": "English",
+					"value": "en"
+				}
+			]
+		},
+		{
+			"label": "Themes",
+			"value": "th",
+			"childs": [
+				{
+					"label": "Light",
+					"value": "light"
+				},
+				{
+					"label": "Dark",
+					"value": "dark"
+				}
+			]
+		}
+	]
+}

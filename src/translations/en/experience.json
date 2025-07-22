@@ -1,0 +1,41 @@
+{
+	"experience": [
+		{
+			"id": 1,
+			"title": "Sands S.AS - Web & App Developer",
+			"startDate": "02-10-2025",
+			"endDate": "07-08-2025",
+			"description": [
+				"Development of a cross-platform mobile application: I designed and developed Wewo, a mobile app that facilitates hiring professional services remotely, using React Native and TypeScript to ensure a consistent and seamless experience on iOS and Android devices.",
+				"Integration of advanced search and contracting functionalities: I implemented key features such as an advanced search system and real-time contracting options, optimizing usability and improving efficiency in the connection between professionals and clients.",
+				"Optimized performance and user experience: I made significant improvements to application performance, reducing load times and ensuring a smooth user experience, resulting in increased user retention and satisfaction.",
+				"Project management and delivery within tight deadlines: I coordinated project development from conception to final implementation, collaborating with multidisciplinary teams and meeting tight deadlines, ensuring the delivery of a high quality product that meets market needs."
+			]
+		},
+		{
+			"id": 2,
+			"title": "Supergiros - Front End Developer",
+			"startDate": "02-14-2024",
+			"endDate": "08-14-2024",
+			"description": [
+				"Development of a comprehensive inventory management platform: I designed and developed Sinet-Lite, a platform that centralizes warehouse inventory management, facilitating the creation and efficient management of warehouses, products, suppliers and employees, with a focus on scalability and usability.",
+				"Business process optimization: I implemented key functionalities such as product movement management and warehouse audits, significantly improving operational efficiency and reducing the execution time of critical tasks by 30%.",
+				"Intuitive and responsive user interface: I designed intuitive user interfaces using Angular, ensuring a seamless user experience across multiple devices and browsers, resulting in a 25% increase in end-user satisfaction.",
+				"Integration of advanced functionalities: I incorporated the ability to perform dynamic POST queries and customized configurations for the selection of departments and cities in forms, optimizing data management and improving the accuracy of the stored information."
+			]
+		},
+		{
+			"id": 3,
+			"title": "Front End Developer - Freelance",
+			"startDate": "02-02-2022",
+			"endDate": "08-31-2023",
+			"description": [
+				"Dynamic web application development: I designed and developed interactive web applications using React and TypeScript, focusing on creating scalable and maintainable solutions that meet the specific needs of each client.",
+				"Application performance optimization: I implemented performance improvements and code optimization across multiple projects, resulting in significantly reduced load times and a smoother user experience.",
+				"Creating intuitive user interfaces: I designed and built attractive and functional user interfaces, applying responsive design principles to ensure a consistent experience on mobile and desktop devices.",
+				"Collaboration and project management: I collaborated closely with multidisciplinary teams and managed development projects from planning to final delivery, ensuring client satisfaction and meeting established deadlines."
+			]
+		}
+	],
+	"defaultPresentDate": "Present"
+}
